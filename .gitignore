@@ -1,0 +1,13 @@
+/game-fight/Debug
+/game-fight/Release
+/game-fight/lib
+/game-fight/include
+/Debug
+game-fight.sln
+.vs/
+/x64
+/game-fight/x64
+/game-fight/game-fight.vcxproj
+/game-fight/game-fight.vcxproj.filters
+/game-fight/game-fight.vcxproj.user
+game-fight/Debug
