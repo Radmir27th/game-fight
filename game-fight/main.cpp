@@ -330,8 +330,6 @@ int main()
      
         window.clear(sf::Color::White);
 
-       
-
         window.draw(sprite_field);
         window.draw(sprite_road);
   /*      window.draw(hero.hit_box);
